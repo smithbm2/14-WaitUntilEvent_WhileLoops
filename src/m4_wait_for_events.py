@@ -554,7 +554,7 @@ def wait_for_sum_of_cubes(x):
     k = 1
     while True:
 
-        sum = sum + k ** 3
+        sum = sum + k**3
         if sum >= x:
             break
         k = k + 1
