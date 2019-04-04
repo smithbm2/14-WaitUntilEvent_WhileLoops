@@ -135,14 +135,14 @@ def input_it_all():
     #   The testing code is already written for you (above).
     # -------------------------------------------------------------------------
 
-    import math
-    x = float(input("Enter a positive floating point number: "))
-    y = int(input("Enter a postive integer: "))
+    #import math
+    #x = float(input("Enter a positive floating point number: "))
+    #y = int(input("Enter a postive integer: "))
     z = input("Enter a string: ")
-    for k in range(y):
-        print(math.sqrt(x))
-    for k in range(y):
-        print(z)
+    #for k in range(y):
+    #    print(math.sqrt(x))
+    #for k in range(y):
+    #    print(z)
 
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
